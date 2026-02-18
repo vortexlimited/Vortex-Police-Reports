@@ -1,4 +1,4 @@
-:flag_gb:  Vortex Police Report System .
+Vortex Police Report System .
 
 Overview
 VTX PD Report System is a comprehensive police documentation system for FiveM QBCore servers. It provides an immersive, professional interface for creating, managing, and storing police reports, academy evaluations, and official documents.
@@ -16,10 +16,10 @@ Document Types
 Internal Affairs Document - Investigation & complaint reports
 Police Academy Evaluation - Training assessment with ratings
 Official Statement - Witness & officer statements
-Arrest Report - Arrest & incident documentation**
+Arrest Report - Arrest & incident documentation
 
 
-**:flag_sa:  نظام تقارير الشرطة 
+نظام تقارير الشرطة 
 
 نظام تقارير الشرطة VTX هو نظام متكامل ومصمم باحترافية لسيرفرات FiveM باستخدام فريمورك QBCore. يوفّر تجربة واقعية وغامرة للضباط في توثيق القضايا والتقارير الرسمية داخل السيرفر بطريقة منظمة وأنيقة
 
@@ -43,4 +43,4 @@ Arrest Report - Arrest & incident documentation**
 يتم حفظ الوثائق كعناصر داخل مخزون QB، وتقدر ترجع لها بأي وقت.
 
  واجهة جميلة ومميزة
-تصميم دفتر جلدي فاخر مع تأثيرات ملاحظات عائمة تعطي طابع رسمي جذاب.**
+تصميم دفتر جلدي فاخر مع تأثيرات ملاحظات عائمة تعطي طابع رسمي جذاب
